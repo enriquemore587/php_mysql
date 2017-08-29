@@ -1,8 +1,10 @@
 
 <?php
 
-  $nombre = 'Roberto';
+  $nombre = 'Jose Enrique';
   
-  $apellidoPaterno = 'Juan';
+  $apellidoPaterno = 'Vergara';
   
+  $apellidoMaterno = 'Ambriz';
+
 ?>
